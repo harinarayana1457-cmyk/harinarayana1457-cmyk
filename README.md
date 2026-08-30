@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:** Multilingual accessibility apps, automated public health hardware, and full-stack web applications.<br>🤝 **I’m looking to collaborate on:** Open-source AI/ML tooling, embedded systems integration, and React/GCP web apps.<br>🧠 **I’m looking for help with:** Advanced system architecture, scalable cloud backend optimization, and hardware-software co-design.<br>🌱 **I’m currently learning:** Edge AI deployment, advanced embedded systems, Google Cloud architecture, and prompt engineering workflows.<br>⚡ **Fun fact:** I've watched enough films to storyboard one and love mixing tech with creativity.
+🔭 **I’m currently working on:** Multilingual accessibility apps, automated public health hardware, and full-stack web applications.<br>🤝 **I’m looking to collaborate on:** Open-source AI/ML tooling, embedded systems integration, and React/GCP web apps.<br>🧠 **I’m looking for help with:** Advanced system architecture, scalable cloud backend optimization, and hardware-software co-design.<br>🌱 **I’m currently learning:** Edge AI deployment, advanced embedded systems, Google Cloud architecture, and engineering workflows.<br>⚡ **Fun fact:** I've watched enough films to storyboard one and love mixing tech with creativity.
 
 
 # 💻 Tech Stack:
